@@ -1,0 +1,60 @@
+Status: Optimal
+Total project cost for best case: $23232.00
+Task A: Start at 0.0, End at 4.0
+Task B: Start at 0.0, End at 8.0
+Task C: Start at 4.0, End at 10.0
+Task D: Start at 0.0, End at 40.0
+Task D1: Start at 4.0, End at 12.0
+Task D2: Start at 12.0, End at 24.0
+Task D3: Start at 12.0, End at 24.0
+Task D4: Start at 24.0, End at 64.0
+Task D5: Start at 64.0, End at 72.0
+Task D6: Start at 64.0, End at 74.0
+Task D7: Start at 74.0, End at 86.0
+Task D8: Start at 86.0, End at 92.0
+Task E: Start at 10.0, End at 20.0
+Task F: Start at 92.0, End at 98.0
+Task G: Start at 92.0, End at 100.0
+Task H: Start at 100.0, End at 108.0
+
+
+
+Status: Optimal
+Total project cost for expected case: $33632.00
+Task A: Start at 0.0, End at 6.0
+Task B: Start at 0.0, End at 12.0
+Task C: Start at 6.0, End at 14.0
+Task D: Start at 0.0, End at 60.0
+Task D1: Start at 6.0, End at 16.0
+Task D2: Start at 16.0, End at 32.0
+Task D3: Start at 16.0, End at 32.0
+Task D4: Start at 32.0, End at 92.0
+Task D5: Start at 92.0, End at 104.0
+Task D6: Start at 92.0, End at 106.0
+Task D7: Start at 106.0, End at 124.0
+Task D8: Start at 124.0, End at 132.0
+Task E: Start at 14.0, End at 28.0
+Task F: Start at 132.0, End at 140.0
+Task G: Start at 132.0, End at 142.0
+Task H: Start at 142.0, End at 154.0
+
+
+
+Status: Optimal
+Total project cost for worst case: $45966.00
+Task A: Start at 0.0, End at 10.0
+Task B: Start at 0.0, End at 16.0
+Task C: Start at 10.0, End at 22.0
+Task D: Start at 0.0, End at 80.0
+Task D1: Start at 10.0, End at 22.0
+Task D2: Start at 22.0, End at 46.0
+Task D3: Start at 22.0, End at 46.0
+Task D4: Start at 46.0, End at 126.0
+Task D5: Start at 126.0, End at 142.0
+Task D6: Start at 126.0, End at 146.0
+Task D7: Start at 146.0, End at 170.0
+Task D8: Start at 170.0, End at 182.0
+Task E: Start at 22.0, End at 42.0
+Task F: Start at 182.0, End at 194.0
+Task G: Start at 182.0, End at 196.0
+Task H: Start at 196.0, End at 212.0
